@@ -8,3 +8,4 @@ Script and tables used for the presentation *"Are young women less politically e
 
 - the **World Values Survey**, Wave 7 (2017-2022), V6, can be extracted from https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp
 
+- Grasso & Smith (2022) original database and codebook can be accessed through EURYKA's project official repository: https://cordis.europa.eu/project/id/727025/results
